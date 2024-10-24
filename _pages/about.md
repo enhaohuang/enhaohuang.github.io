@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将本科毕业于浙江大学 计算机科学与技术学院，主修信息安全专业；辅修竺可桢学院（荣誉学院）创新与创业管理强化班。
+我将本科毕业于浙江大学 计算机科学与技术学院。主修信息安全专业；辅修竺可桢学院（荣誉学院）创新与创业管理强化班。
 
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
@@ -30,8 +30,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+- *2016.06 - 2022.12*, <a href="https://www.zju.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 浙江大学 计算机科学与技术学院, 浙江杭州, 本科在读 
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -140,6 +139,7 @@ redirect_from:
 - 伍剑波, 王杰, 方辉, `唐健`. 一种钢管脉冲磁化漏磁探伤装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105334260A&v=) 
 - 伍剑波, `唐健`, 王杰, 方辉. 一种基于动生涡电流的金属管件电磁无损检测装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105510433A&v=) 
 - 刁燕, 陈敏, 王荣彪, `唐健`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) 
+- 
 
 
 
@@ -150,14 +150,13 @@ redirect_from:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 竞赛奖项
+- *2024.10* 获得 第十届中国国际大学生创新大赛 `金奖（小组第一）`*（第二负责人）*[[新闻]](https://mp.weixin.qq.com/s/ieVh0foME9xea7sK_usyYg)
+- *2024.09* 获得 第九届中国高校计算机大赛-网络技术挑战赛 `二等奖`
+- *2024.08* 获得 第十七届全国大学生信息安全竞赛作品赛 `一等奖`*（队长）*
+- *2024.07* 获得 浙江省第十届国际大学生创新大赛 `金奖（赛道第一，省季军）` *（第二负责人）*[[新闻]](https://mp.weixin.qq.com/s/aGu5CPG9bvztheSnPUmZiw)
+- *2024.05* 获得 浙江省第十四届“挑战杯”大学生创业计划竞赛 `金奖` *（第二负责人）*[[新闻]](https://mp.weixin.qq.com/s/lGPi_mrax_lsSSgtR5TgxA)
+- *2023.08* 获得 第八届中国高校计算机大赛-网络技术挑战赛 `二等奖`*（队长）*
 
-- *2024.07* 获得 浙江省第十届国际大学生创新大赛 `金奖（赛道第一，省季军）` （第二负责人）
-- *2024.05* 获得 浙江省第十四届“挑战杯”大学生创业计划竞赛 `金奖` （第二负责人）
-- *2023.08* 获得 第八届中国高校计算机大赛-网络技术挑战赛 `二等奖`（第一负责人）
-
-- *2023.08* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
 
 <span class='anchor' id='-xshy'></span>
 
